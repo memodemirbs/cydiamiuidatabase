@@ -1,17 +1,72 @@
 [
+{
+    "Name": "Sharchive",
+    "Desc": "Small app that allows you to view a webpage's history in Archive.org (Wayback Machine) or Archive.is from the share menu.",
+    "Size": "1.36 MB",
+    "Version": "1.0",
+    "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Sharchive/icon.png",
+    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/Sharchive/base.apk",
+    "Author": "Narek Torosyan",
+    "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Sharchive/ss1.jpg",
+    "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Sharchive/ss2.jpg",
+    "SS3": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Sharchive/ss1.jpg",
+    "SS4": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Sharchive/ss2.jpg",
+    "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Sharchive/ss1.jpg",
+    "SS6": "",
+    "SS7": "",
+    "SS8": ""
+  },
+  {
+    "Name": "Explorer",
+    "Desc": "A simple and compact browser by Amir Ali",
+    "Size": "5.09 MB",
+    "Version": "1.0",
+    "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/icon.png",
+    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/AmirExplorer/base.apk",
+    "Author": "Amir Ali",
+    "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/ss1.jpg",
+    "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/ss2.jpg",
+    "SS3": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/ss3.jpg",
+    "SS4": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/ss4.jpg",
+    "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/ss5.jpg",
+    "SS6": "",
+    "SS7": "",
+    "SS8": ""
+  },
+  {
+    "Name": "MIUI Security",
+    "Desc": "ONLY FOR MIUI!!!!!!
+    
+Protect your device",
+    "Size": "59.76 MB",
+    "Version": "5.5.2-210710.0.1",
+    "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MiSecurity/icon.png",
+    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/MiSecurity/base.apk",
+    "Author": "Xiaomi, Inc.",
+    "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MiSecurity/ss1.jpg",
+    "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MiSecurity/ss2.jpg",
+    "SS3": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MiSecurity/ss3.jpg",
+    "SS4": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MiSecurity/ss4.jpg",
+    "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MiSecurity/ss5.jpg",
+    "SS6": "",
+    "SS7": "",
+    "SS8": ""
+  },
   {
     "Name": "Oneplus Gallery",
-    "Desc": "Ported from OOS",
-    "Size": "0B",
-    "Version": "4.5",
+    "Desc": "Ported from OOS
+    
+By MrSluffy",
+    "Size": "45.94 MB",
+    "Version": "3.7.14",
     "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/OpGallery/icon.png",
     "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/OpGallery/base.apk",
-    "Author": "polychromaticfox",
-    "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/SAI/ss1.jpg",
-    "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/SAI/ss2.jpg",
-    "SS3": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/SAI/ss3.jpg",
-    "SS4": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/SAI/ss4.jpg",
-    "SS5": "",
+    "Author": "MrSluffy",
+    "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/OpGallery/ss1.jpg",
+    "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/OpGallery/ss2.jpg",
+    "SS3": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/OpGallery/ss3.jpg",
+    "SS4": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/OpGallery/ss1.jpg",
+    "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/OpGallery/ss2.jpg",
     "SS6": "",
     "SS7": "",
     "SS8": ""
@@ -28,7 +83,7 @@
     "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AIS/ss1.jpg",
     "SS3": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AIS/ss1.jpg",
     "SS4": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AIS/ss1.jpg",
-    "SS5": "",
+    "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AIS/ss1.jpg",
     "SS6": "",
     "SS7": "",
     "SS8": ""
@@ -120,7 +175,7 @@
   },
   {
     "Name": "Flashlight(ardamen)",
-    "Desc": "ardamen\u0027s shitty app that does not make any single fucking sense at all",
+    "Desc": "idk",
     "Size": "3.10 MB",
     "Version": 0,
     "Icon": "",
@@ -147,7 +202,7 @@
     "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/BgBrowser2/ss2.jpg",
     "SS3": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/BgBrowser2/ss3.jpg",
     "SS4": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/BgBrowser2/ss4.jpg",
-    "SS5": "",
+    "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/BgBrowser2/ss5.jpg",
     "SS6": "",
     "SS7": "",
     "SS8": ""
@@ -163,8 +218,8 @@
     "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/NetMeter/ss1.jpg",
     "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/NetMeter/ss2.jpg",
     "SS3": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/NetMeter/ss3.jpg",
-    "SS4": "",
-    "SS5": "",
+    "SS4": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/NetMeter/ss4.jpg",
+    "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/NetMeter/ss5.jpg",
     "SS6": "",
     "SS7": "",
     "SS8": ""
@@ -222,7 +277,9 @@
   },
   {
     "Name": "SAI",
-    "Desc": "SAI is an apk manager/installer that contains more than one apk files/or lets you to update system apps on the oems that does not allow.",
+    "Desc": "Install Split Apks/Bundles!
+    
+SAI is an apk manager/installer that contains more than one apk files/or lets you to update system apps on the oems that does not allow.",
     "Size": "0B",
     "Version": 4.5,
     "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/SAI/icon.png",
