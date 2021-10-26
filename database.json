@@ -1,4 +1,24 @@
 [
+ {
+    "Name": "MIUI HIDDEN LIBS",
+    "Desc": "Access hidden MIUI activities.",
+    "Size": "107.34 KB",
+    "Version": "0.1",
+    "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/noicon.png",
+    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/MIUIHIDDENLIBS/base.apk",
+    "Author": "ios7jbpro",
+    "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MIUIHIDDENLIBS/ss1.jpg",
+    "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MIUIHIDDENLIBS/ss2.jpg",
+    "SS3": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MIUIHIDDENLIBS/ss3.jpg",
+    "SS4": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MIUIHIDDENLIBS/ss4.jpg",
+    "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MIUIHIDDENLIBS/ss1.jpg",
+    "SS6": "",
+    "SS7": "",
+    "SS8": "",
+    "containsource": "false",
+    "icon_visible": "true",
+    "sourcelink": "https://github.com/githubcatw/Sharchive"
+  },
 {
     "Name": "Sharchive",
     "Desc": "Small app that allows you to view a webpage's history in Archive.org (Wayback Machine) or Archive.is from the share menu.",
@@ -14,7 +34,10 @@
     "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Sharchive/ss1.jpg",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "true",
+    "icon_visible": "true",
+    "sourcelink": "https://github.com/githubcatw/Sharchive"
   },
   {
     "Name": "Explorer",
@@ -22,7 +45,7 @@
     "Size": "5.09 MB",
     "Version": "1.0",
     "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/icon.png",
-    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/AmirExplorer/base.apk",
+    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/AmirExplorer/Explorer_base.apk",
     "Author": "Amir Ali",
     "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/ss1.jpg",
     "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/ss2.jpg",
@@ -31,7 +54,10 @@
     "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmirExplorer/ss5.jpg",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "MIUI Security",
@@ -50,7 +76,10 @@ Protect your device",
     "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/MiSecurity/ss5.jpg",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "Oneplus Gallery",
@@ -69,7 +98,10 @@ By MrSluffy",
     "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/OpGallery/ss2.jpg",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "Android Image Studio",
@@ -77,7 +109,7 @@ By MrSluffy",
     "Size": "7.94 MB",
     "Version": "4.4.2",
     "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AIS/icon.png",
-    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/AIS/base.apk",
+    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/AIS/AIS_base.apk",
     "Author": "Ray Li",
     "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AIS/ss1.jpg",
     "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AIS/ss1.jpg",
@@ -86,7 +118,10 @@ By MrSluffy",
     "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AIS/ss1.jpg",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "Roblox",
@@ -103,7 +138,10 @@ By MrSluffy",
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "Codebrary",
@@ -111,7 +149,7 @@ By MrSluffy",
     "Size": "2.9 MB",
     "Version": 1.1,
     "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Codebrary/icon.png",
-    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/Codebrary/base.apk",
+    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/Codebrary/Codebrary_base.apk",
     "Author": "Frostwave",
     "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Codebrary/ss1.jpg",
     "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/Codebrary/ss2.jpg",
@@ -120,7 +158,10 @@ By MrSluffy",
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "Telegram FOSS",
@@ -137,7 +178,10 @@ By MrSluffy",
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "true",
+    "icon_visible": "true",
+    "sourcelink": "https://github.com/DrKLO/Telegram"
   },
   {
     "Name": "Store",
@@ -145,7 +189,7 @@ By MrSluffy",
     "Size": "2.6 MB",
     "Version": 0.1,
     "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmyStore/icon.jpg",
-    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/AmyStore/base.apk",
+    "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/AmyStore/AmyStoreGsi_base.apk",
     "Author": "Amy",
     "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmyStore/ss1.jpg",
     "SS2": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/AmyStore/ss2.jpg",
@@ -154,7 +198,10 @@ By MrSluffy",
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "Miui Screen Recorder",
@@ -171,14 +218,17 @@ By MrSluffy",
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "Flashlight(ardamen)",
     "Desc": "idk",
     "Size": "3.10 MB",
     "Version": 0,
-    "Icon": "",
+    "Icon": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/noicon.png",
     "Link": "https://root.apurixz.com/file/user_upload/StoreProject/ApkFiles/FlashlightArdamen/base.apk",
     "Author": "Ardamen",
     "SS1": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/FlashlightArdamen/ss1.jpg",
@@ -188,7 +238,10 @@ By MrSluffy",
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "Bg Browser 2",
@@ -205,7 +258,10 @@ By MrSluffy",
     "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/BgBrowser2/ss5.jpg",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "true",
+    "icon_visible": "true",
+    "sourcelink": "https://github.com/ios7jbpro/bg-browser-2"
   },
   {
     "Name": "Net Meter",
@@ -222,7 +278,10 @@ By MrSluffy",
     "SS5": "https://root.apurixz.com/file/user_upload/StoreProject/Icons/NetMeter/ss5.jpg",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "Magisk 22",
@@ -239,7 +298,10 @@ By MrSluffy",
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "true",
+    "icon_visible": "true",
+    "sourcelink": "https://github.com/topjohnwu/magisk/releases/tag/v22.0"
   },
   {
     "Name": "Spectrum",
@@ -256,7 +318,10 @@ By MrSluffy",
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "FNF(vs Sunday)",
@@ -273,7 +338,10 @@ By MrSluffy",
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   },
   {
     "Name": "SAI",
@@ -292,6 +360,9 @@ SAI is an apk manager/installer that contains more than one apk files/or lets yo
     "SS5": "",
     "SS6": "",
     "SS7": "",
-    "SS8": ""
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
   }
 ]
