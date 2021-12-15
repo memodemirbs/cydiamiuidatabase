@@ -1,13 +1,13 @@
 [
   {
-    "Name": "Store will be back soon!",
-    "Desc": "Stay tuned.",
+    "Name": "Android Image Studio",
+    "Desc": "",
     "Size": "nullKB",
-    "Version": 1.5,
-    "Icon": "",
+    "Version": "1.0",
+    "Icon": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/Icons/AIS/icon.jpg",
     "Link": "",
     "Author": "",
-    "SS1": "",
+    "SS1": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/Icons/AIS/ss1.jpg",
     "SS2": "",
     "SS3": "",
     "SS4": "",
@@ -16,7 +16,7 @@
     "SS7": "",
     "SS8": "",
     "containsource": "",
-    "icon_visible": "false",
+    "icon_visible": "true",
     "sourcelink": ""
   }
 ]
