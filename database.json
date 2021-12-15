@@ -2,10 +2,10 @@
 {
     "Name": "GPU Tuner",
     "Desc": "Activate MIUI's hidden GPU options in Game Turbo!",
-    "Size": "7.94 MB",
+    "Size": "4.40 MB",
     "Version": "1.0",
     "Icon": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/Icons/gputuner/icon.png",
-    "Link": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/ApkFiles/AIS/AIS_base.apk",
+    "Link": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/ApkFiles/gputuner/base.apk",
     "Author": "ios7jbpro",
     "SS1": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/Icons/AIS/ss1.jpg",
     "SS2": "",
