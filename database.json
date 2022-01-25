@@ -1,12 +1,12 @@
 [
 {
-    "Name": "GPU Tuner",
-    "Desc": "Activate MIUI's hidden GPU options in Game Turbo!",
+    "Name": "MIUI Home Sipollo",
+    "Desc": "MIUI Home but with everything enabled thats normally disabled!",
     "Size": "4.40 MB",
     "Version": "1.0",
-    "Icon": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/Icons/gputuner/icon.png",
-    "Link": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/ApkFiles/gputuner/base.apk",
-    "Author": "ios7jbpro",
+    "Icon": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/files/miuihome/icon.png",
+    "Link": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/files/miuihome/base.apk",
+    "Author": "Sipollo",
     "SS1": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/Icons/gputuner/ss1.jpg",
     "SS2": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/Icons/gputuner/ss2.jpg",
     "SS3": "https://raw.githubusercontent.com/ios7jbpro/storedatabase/main/Icons/gputuner/ss1.jpg",
