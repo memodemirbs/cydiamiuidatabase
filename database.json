@@ -1,9 +1,31 @@
 [
 {
+    "Name": "SystemUI Plugin",
+    "Desc": "Plugin for SystemUI that's responsible for holding extra things for the system itself.
+Changelog:
+·MIUI 13 Control Center.",
+    "Size": "7.80 MB",
+    "Version": "13.0.0.4.0",
+    "Icon": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/icon.png",
+    "Link": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/base.apk",
+    "Author": "Sipollo",
+    "SS1": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpg",
+    "SS2": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpg",
+    "SS3": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpg",
+    "SS4": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpg",
+    "SS5": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpg",
+    "SS6": "",
+    "SS7": "",
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": ""
+  },
+{
     "Name": "MIUI Home Sipollo",
     "Desc": "MIUI Home but with everything enabled thats normally disabled!",
-    "Size": "4.40 MB",
-    "Version": "1.0",
+    "Size": "15.60 MB",
+    "Version": "426004345",
     "Icon": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/miuihome/icon.png",
     "Link": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/miuihome/base.apk",
     "Author": "Sipollo",
