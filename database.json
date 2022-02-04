@@ -1,5 +1,26 @@
 [
 {
+    "Name": "Lawnchair 12 Alpha 5",
+    "Desc": "Classic Lawnchair that you all used to know as a systemless module.",
+    "Size": "7.80 MB",
+    "Version": "13.0.0.4.0",
+    "Icon": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/lawnchairalpha5/icon.png",
+    "Link": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/lawnchairalpha5/Lawnchair12Alpha5SystemLess.zip",
+    "Author": "Xiaomi",
+    "SS1": "",
+    "SS2": "",
+    "SS3": "",
+    "SS4": "",
+    "SS5": "",
+    "SS6": "",
+    "SS7": "",
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": "",
+    "Type": "Module"
+  },
+{
     "Name": "SystemUI Plugin",
     "Desc": "Plugin for SystemUI that's responsible for holding extra things for the system itself.
 Changelog:
