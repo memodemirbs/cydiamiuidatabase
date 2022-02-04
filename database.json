@@ -19,7 +19,8 @@ Changelog:
     "SS8": "",
     "containsource": "",
     "icon_visible": "true",
-    "sourcelink": ""
+    "sourcelink": "",
+    "Type": "App"
   },
 {
     "Name": "MIUI Home Sipollo",
@@ -39,6 +40,7 @@ Changelog:
     "SS8": "",
     "containsource": "",
     "icon_visible": "true",
-    "sourcelink": ""
+    "sourcelink": "",
+    "Type": "App"
   }
 ]
