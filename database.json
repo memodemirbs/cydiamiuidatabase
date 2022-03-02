@@ -1,12 +1,12 @@
 [
 {
-    "Name": "Lawnchair 12 Alpha 5",
-    "Desc": "Classic Lawnchair that you all used to know as a systemless module.",
-    "Size": "7.80 MB",
-    "Version": "Alpha 5",
+    "Name": "Game Space",
+    "Desc": "ColorOS 12 Game Space Application for ColorOS 11 Users",
+    "Size": "70 MB",
+    "Version": "6.10",
     "Icon": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/lawnchairalpha5/icon.png",
-    "Link": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/lawnchairalpha5/Lawnchair12Alpha5SystemLess.zip",
-    "Author": "Lawnchair Team",
+    "Link": "https://download2275.mediafire.com/futka034s91g/kdycij1w1awpv6v/Game+Assistant+6.10.3+%28com.coloros.gamespaceui%29.apk",
+    "Author": "Oppo Developers",
     "SS1": "",
     "SS2": "",
     "SS3": "",
@@ -18,50 +18,6 @@
     "containsource": "",
     "icon_visible": "true",
     "sourcelink": "",
-    "Type": "Module"
-  },
-{
-    "Name": "SystemUI Plugin",
-    "Desc": "Plugin for SystemUI that's responsible for holding extra things for the system itself.
-Changelog:
-·MIUI 13 Control Center.",
-    "Size": "7.80 MB",
-    "Version": "13.0.0.4.0",
-    "Icon": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/icon.png",
-    "Link": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/base.apk",
-    "Author": "Xiaomi",
-    "SS1": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpeg",
-    "SS2": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpeg",
-    "SS3": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpeg",
-    "SS4": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpeg",
-    "SS5": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/systemuiplugin/ss1.jpeg",
-    "SS6": "",
-    "SS7": "",
-    "SS8": "",
-    "containsource": "",
-    "icon_visible": "true",
-    "sourcelink": "",
-    "Type": "App"
-  },
-{
-    "Name": "MIUI Home Sipollo",
-    "Desc": "MIUI Home but with everything enabled thats normally disabled!",
-    "Size": "15.60 MB",
-    "Version": "426004345",
-    "Icon": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/miuihome/icon.png",
-    "Link": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/miuihome/base.apk",
-    "Author": "Sipollo",
-    "SS1": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/miuihome/ss1.jpg",
-    "SS2": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/miuihome/ss2.jpg",
-    "SS3": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/miuihome/ss1.jpg",
-    "SS4": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/miuihome/ss2.jpg",
-    "SS5": "https://raw.githubusercontent.com/ios7jbpro/cydiamiuidatabase/main/files/miuihome/ss1.jpg",
-    "SS6": "",
-    "SS7": "",
-    "SS8": "",
-    "containsource": "",
-    "icon_visible": "true",
-    "sourcelink": "",
-    "Type": "App"
+    "Type": "System App"
   }
 ]
