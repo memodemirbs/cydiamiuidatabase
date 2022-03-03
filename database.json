@@ -504,27 +504,6 @@
     "Type": "System App"
   },
 {
-    "Name": "Camera",
-    "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
-    "Size": "90 MB",
-    "Version": "3.102.188",
-    "Icon": "https://file.apurixz.com/user_upload/istuffstore/oppostore/Engine/Enginer.png",
-    "Link": "https://file.apurixz.com/user_upload/istuffstore/oppostore/Engine/Engine.apk",
-    "Author": "Oppo Developers",
-    "SS1": "",
-    "SS2": "",
-    "SS3": "",
-    "SS4": "",
-    "SS5": "",
-    "SS6": "",
-    "SS7": "",
-    "SS8": "",
-    "containsource": "",
-    "icon_visible": "true",
-    "sourcelink": "",
-    "Type": "System App"
-  },
-{
     "Name": "Contacts Storage",
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "8 MB",
@@ -592,27 +571,6 @@
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "12 MB",
     "Version": "2.3.5",
-    "Icon": "https://file.apurixz.com/user_upload/istuffstore/oppostore/Engine/Enginer.png",
-    "Link": "https://file.apurixz.com/user_upload/istuffstore/oppostore/Engine/Engine.apk",
-    "Author": "Oppo Developers",
-    "SS1": "",
-    "SS2": "",
-    "SS3": "",
-    "SS4": "",
-    "SS5": "",
-    "SS6": "",
-    "SS7": "",
-    "SS8": "",
-    "containsource": "",
-    "icon_visible": "true",
-    "sourcelink": "",
-    "Type": "System App"
-  },
-{
-    "Name": "Mods",
-    "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
-    "Size": "7,4 MB",
-    "Version": "1.2.19",
     "Icon": "https://file.apurixz.com/user_upload/istuffstore/oppostore/Engine/Enginer.png",
     "Link": "https://file.apurixz.com/user_upload/istuffstore/oppostore/Engine/Engine.apk",
     "Author": "Oppo Developers",
@@ -733,5 +691,5 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "System App"
-  }
+  },
 ]
