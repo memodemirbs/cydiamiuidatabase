@@ -42,7 +42,7 @@
     "Type": "Important System App"
   },
 {
-    "Name": "System Launcher"
+    "Name": "System Launcher",
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "1.4 MB",
     "Version": "11.1",
@@ -63,7 +63,7 @@
     "Type": "System App"
   },
   {
-    "Name": "Download Manager"
+    "Name": "Download Manager",
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "7.36MB",
     "Version": "1.5.1"
@@ -84,7 +84,7 @@
     "Type": "System App"
   },
   {
-    "Name": "Smart Sidebar"
+    "Name": "Smart Sidebar",
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "6.5 MB",
     "Version": "12.0.27"
