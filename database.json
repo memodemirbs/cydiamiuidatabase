@@ -691,5 +691,26 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "System App"
+  },
+{
+    "Name": "Software Update",
+    "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
+    "Size": "6.6 MB",
+    "Version": "3.12.52",
+    "Icon": "https://file.apurixz.com/user_upload/istuffstore/oppostore/Engine/Enginer.png",
+    "Link": "https://file.apurixz.com/user_upload/istuffstore/oppostore/Engine/Engine.apk",
+    "Author": "Oppo Developers",
+    "SS1": "",
+    "SS2": "",
+    "SS3": "",
+    "SS4": "",
+    "SS5": "",
+    "SS6": "",
+    "SS7": "",
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": "",
+    "Type": "System App"
   }
 ]
