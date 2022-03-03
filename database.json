@@ -62,7 +62,7 @@
     "sourcelink": "",
     "Type": "System App"
   },
-  {
+ {
     "Name": "Download Manager"
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "7.36MB",
@@ -83,7 +83,7 @@
     "sourcelink": "",
     "Type": "System App"
   },
-  {
+{
     "Name": "Smart Sidebar"
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "6.5 MB",
@@ -104,7 +104,7 @@
     "sourcelink": "",
     "Type": "System App"
   },
-  {
+{
     "Name": "Settings",
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "115 MB",
@@ -125,7 +125,7 @@
     "sourcelink": "",
     "Type": "System App"
   },
-  {
+{
     "Name": "File Enc",
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "6.8 MB",
@@ -146,7 +146,7 @@
     "sourcelink": "",
     "Type": "System App"
   },
-{
+ {
     "Name": "Boot Reg",
     "Desc": "This application is an application that improves performance on devices with lag in ColorOS 11.",
     "Size": "40 MB",
