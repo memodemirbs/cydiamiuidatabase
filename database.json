@@ -712,7 +712,7 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "System App"
-  }
+  },
 {
     "Name": "FM Radio",
     "Desc": "ColorOS 11 FM Radio App.",
@@ -733,7 +733,7 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "System App"
-  }
+  },
 {
     "Name": "File Manager",
     "Desc": "ColorOS 11 File Manager App.",
@@ -754,7 +754,7 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "System App"
-  }
+  },
 {
     "Name": "ColorOS 12 Icon Pack",
     "Desc": "Only ColorOS 11 Icon Pack App",
@@ -775,7 +775,7 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "Icon Pack App"
-  }
+  },
 {
     "Name": "Oppo LAB",
     "Desc": "ColorOS 11 Oppo LAB App.",
@@ -796,7 +796,7 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "System App"
-  }
+  },
 {
     "Name": "Screen Recorder",
     "Desc": "ColorOS 11 Screen Recorder App.",
@@ -817,7 +817,7 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "System App"
-  }
+  },
 {
     "Name": "Notes",
     "Desc": "ColorOS 12 Notes Application for ColorOS 11 Users.",
@@ -838,7 +838,7 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "System App"
-  }
+  },
 {
     "Name": "Theme Store",
     "Desc": "ColorOS 11 Global Theme Store App.",
@@ -846,6 +846,27 @@
     "Version": "8.0.0",
     "Icon": "https://file.apurixz.com/user_upload/istuffstore/oppostore/theme/ThemeSpace.png",
     "Link": "https://file.apurixz.com/user_upload/istuffstore/oppostore/theme/tstore.apk",
+    "Author": "Oppo Developers",
+    "SS1": "",
+    "SS2": "",
+    "SS3": "",
+    "SS4": "",
+    "SS5": "",
+    "SS6": "",
+    "SS7": "",
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": "",
+    "Type": "System App"
+  },
+{
+    "Name": "Mail",
+    "Desc": "ColorOS 12 Mail Application for ColorOS 11 Users",
+    "Size": "25 MB",
+    "Version": "8.0.0",
+    "Icon": "https://file.apurixz.com/user_upload/istuffstore/oppostore/mail/mail.png",
+    "Link": "https://file.apurixz.com/user_upload/istuffstore/oppostore/mail/oppomail.apk",
     "Author": "Oppo Developers",
     "SS1": "",
     "SS2": "",
