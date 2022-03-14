@@ -1554,5 +1554,26 @@
     "icon_visible": "true",
     "sourcelink": "",
     "Type": "System App"
+  },
+{
+    "Name": "YouTube Vanced Pack",
+    "Desc": "This Option Allows Us To Download The Latest Version Of YouTube Vanced, YouTube Vanced Music and MicroG Apps. ",
+    "Size": "100 MB",
+    "Version": "Latest Version",
+    "Icon": "https://file.apurixz.com/user_upload/istuffstore/oppostore/youtube/yt.png",
+    "Link": "https://file.apurixz.com/user_upload/istuffstore/oppostore/youtube/yt.zip",
+    "Author": "Vanced",
+    "SS1": "",
+    "SS2": "",
+    "SS3": "",
+    "SS4": "",
+    "SS5": "",
+    "SS6": "",
+    "SS7": "",
+    "SS8": "",
+    "containsource": "",
+    "icon_visible": "true",
+    "sourcelink": "",
+    "Type": "App"
   }
 ]
